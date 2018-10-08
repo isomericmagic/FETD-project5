@@ -32,3 +32,12 @@ Make sure to check your code is valid by running it through an HTML and CSS vali
 You should also check for issues with your JavaScript code using JSHint, linked in the Project Resources.
 
 JSHint may show you some warnings, so make sure to check through those for any potential problems. You do not need to fix every warning listed but reviewing them can be useful.
+
+Extra Credit
+
+To get an "exceeds" rating, you can expand on the project in the following ways:
+2 steps
+
+Include a mobile-first design for both the gallery page and the lightbox:
+  * Use media queries to make sure that the photos and layout adjust for a mobile-friendly experience.
+  * Write your own JavaScript or jQuery code instead of using a jQuery plugin for the search/content filtering requirement.
